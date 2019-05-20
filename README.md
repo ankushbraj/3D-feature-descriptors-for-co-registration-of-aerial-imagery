@@ -1,22 +1,10 @@
 # 3D-feature-descriptors-for-co-registration-of-aerial-imagery
+This repository gives code for testing 3D feature discriptors on C++ with Stereo camera data
 
-## Feature Descriptors Implemented
-```
-CSHOT 
-PPF Hist
-RoPS
-```
-
-### CSHOT
-```
-S. Salti, F. Tombari, L. Di Stefano, "SHOT: Unique Signatures of Histograms for Surface and Texture Description", Computer Vision and Image Understanding, May, 2014.
-```
-## Sources:
-```
-CSHOT 
-PPF Hist
-RoPS
-```
+## Feature Descriptors Implementation
+-[CSHOT](http://vision.disi.unibo.it/research/80-shot)
+-[PPF Hist](https://gitlab.com/caro-sdu/covis)
+-[RoPS](http://pointclouds.org/documentation/tutorials/rops_feature.php#rops-feature)
 
 ## Dependencies
 This project has the following dependencies: 
