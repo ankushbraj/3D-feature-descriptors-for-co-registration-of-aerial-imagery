@@ -1,4 +1,4 @@
-# 3D-feature-descriptors-for-co-registration-of-aerial-imagery
+# Feature based automatic registration of aerial imagery
 This repository gives code for usage of 3D feature discriptors on C++ with Stereo camera data
 
 ## Feature Descriptors Implementation
