@@ -1,16 +1,14 @@
-# Feature based automatic registration of aerial imagery
-This repository gives code for usage of 3D feature discriptors on C++ with Stereo camera data
+# Feature based automatic registration of aerial imagery using Point cloud library (PCL)
 
-## Feature Descriptors Implementation
+## 3D Feature Descriptors suitable for Registration based on Performance
 1. [CSHOT](http://vision.disi.unibo.it/research/80-shot)
 2. [PPF Hist](https://gitlab.com/caro-sdu/covis)
 3. [RoPS](http://pointclouds.org/documentation/tutorials/rops_feature.php#rops-feature)
 
-## Task list
-- [ ] CSHOT 
-- [ ] PPF Hist
-- [ ] RoPS
-
+## Feature Descriptors available in PCL
+1. ROPS
+2. FPFH
+3. PFH
 
 
 ## Dependencies
