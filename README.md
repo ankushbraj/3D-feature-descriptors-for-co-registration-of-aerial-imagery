@@ -46,6 +46,6 @@ VTK (5.10 and above)
 2. build 
 3. cd build
 4. put the .pcd in the build folder
-5. ./coreg test[1-5].pcd
+5. ./coreg test[1-3].pcd
 ```
 
