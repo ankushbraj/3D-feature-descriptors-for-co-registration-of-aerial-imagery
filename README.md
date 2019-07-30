@@ -29,3 +29,13 @@ OpenCV (3.4.4 and above)
 Point Cloud Library (PCL)
 VTK (5.10 and above)
 ```
+## Implementation
+#### The current code can incrementally register based on Iterative Closest point algorithm available on PCL documentation. The plan is use the code snippets in PCL tutorials available on official website and make small changes and visualize the results. The steps planned are,
+
+- [x] Data acquisition - An input cloud and a reference cloud are fed into the algorithm.
+- [x] Estimating Keypoints - pcl::SIFTKeypoint< PointInT, PointOutT >
+- [ ] Describing keypoints using 3D Feature descriptors - pcl::FPFHEstimation< PointInT, PointNT, PointOutT >
+- [ ] Correspondence Estimation - pcl::registration::CorrespondenceEstimation< PointSource, PointTarget, Scalar >
+- [ ] Correspondence rejection - RANSAC pcl::registration::CorrespondenceRejectorSampleConsensus< PointT >
+- [ ] Transformation Estimation - pcl::registration::TransformationEstimationSVD< PointSource, PointTarget, Scalar >
+ 
