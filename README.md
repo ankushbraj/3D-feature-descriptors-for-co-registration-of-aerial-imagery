@@ -10,8 +10,8 @@
 
 ## Feature Descriptors available in PCL
 1. [ROPS](http://pointclouds.org/documentation/tutorials/rops_feature.php)
-2. [FPFH] (http://pointclouds.org/documentation/tutorials/fpfh_estimation.php)
-3. [PFH] (http://pointclouds.org/documentation/tutorials/pfh_estimation.php)
+2. [FPFH](http://pointclouds.org/documentation/tutorials/fpfh_estimation.php)
+3. [PFH](http://pointclouds.org/documentation/tutorials/pfh_estimation.php)
 
 ## Note
 1. The official tutorials and latest PCL are incompatible
