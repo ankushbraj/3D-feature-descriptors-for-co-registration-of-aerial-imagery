@@ -39,3 +39,13 @@ VTK (5.10 and above)
 - [ ] Correspondence rejection - RANSAC pcl::registration::CorrespondenceRejectorSampleConsensus< PointT >
 - [ ] Transformation Estimation - pcl::registration::TransformationEstimationSVD< PointSource, PointTarget, Scalar >
  
+ 
+ ## Usage
+```
+1. Put three files in a folder with name, for ex :coreg
+2. build 
+3. cd build
+4. put the .pcd in the build folder
+5. ./coreg test[1-5].pcd
+```
+
