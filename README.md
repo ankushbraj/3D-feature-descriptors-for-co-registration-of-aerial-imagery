@@ -42,10 +42,10 @@ VTK (5.10 and above)
  
  ## Usage
 ```
-1. Put three files in a folder with name, for ex :coreg
-2. build 
+1. download 2 cmake files and main.cpp and move it to a folder, for ex :coreg
+2. mkdir build 
 3. cd build
 4. put the .pcd in the build folder
-5. ./coreg test[1-3].pcd
+5. execute using ./coreg test[1-3].pcd
 ```
 
