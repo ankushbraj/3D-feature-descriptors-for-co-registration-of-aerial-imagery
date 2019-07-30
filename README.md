@@ -6,7 +6,6 @@
 ## Feature Descriptors available in C++ Repo
 1. [CSHOT](http://vision.disi.unibo.it/research/80-shot)
 2. [PPF Hist](https://gitlab.com/caro-sdu/covis)
-3. [RoPS](http://pointclouds.org/documentation/tutorials/rops_feature.php#rops-feature)
 
 ## Feature Descriptors available in PCL
 1. [ROPS](http://pointclouds.org/documentation/tutorials/rops_feature.php)
